@@ -1,1 +1,1 @@
-from common import utc_now_ts
+from .common import utc_now_ts
